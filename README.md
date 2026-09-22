@@ -57,7 +57,7 @@ A certification process can include:
 4. **Certification decision** – An independent review is conducted before certification.
 5. **Surveillance audits** – Ongoing assessments help maintain certification.
 
-QCert Indonesia describes its certification process using these five stages, including scope and application, Stage 1, Stage 2, certification issuance, and surveillance audits. ([QCert Indonesia][1])
+QCert Indonesia describes its certification process using these five stages, including scope and application, Stage 1, Stage 2, certification issuance, and surveillance audits.
 
 ## How to Choose an ISO Certification Company Indonesia
 
