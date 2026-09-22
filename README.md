@@ -8,7 +8,7 @@ An ISO certification company, generally referred to as a certification body, con
 
 Different standards address different business needs. Common examples include **ISO 9001** for quality management, **ISO 14001** for environmental management, **ISO 27001** for information security, and **ISO 45001** for occupational health and safety.
 
-QCert Indonesia states that it provides certification for management-system standards including ISO 9001, ISO 14001, ISO 27001, ISO 45001, and other standards. ([QCert Indonesia][1])
+QCert Indonesia states that it provides certification for management-system standards including ISO 9001, ISO 14001, ISO 27001, ISO 45001, and other standards.
 
 ## Why Is ISO Certification Important?
 
